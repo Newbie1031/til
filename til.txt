@@ -1,0 +1,14 @@
+1. 앞으로 git 프로젝트로 만들고 싶은 것
+Java를 이용해서 여러가지 프로그램을 만들고 싶습니다.
+
+2. 1주차 주요 개념 키워드 적어보기
+버전
+git
+github
+로컬 repo
+원격 repo
+commit
+push
+pull
+clone
+conflict
